@@ -1,6 +1,5 @@
 # SU(2)-Wilson-action-with-Monte-Carlo
-Monte Carlo simulation of the **SU(2) Wilson action** in a 4D lattice. We compute plaquette and specific heat values
-
+Monte Carlo simulation of the **SU(2) Wilson action** in a 4D lattice using **Fortran**.
 ## 🌟 Highlights
 
 This repository contains a **Fortran** implementation of a **Metropolis Monte Carlo** algorithm for **SU(2)** lattice gauge theory using the Wilson action:
